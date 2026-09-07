@@ -5,7 +5,7 @@ about:
   head: f592a96
   archived: false
   latestVersion: "v0.3.2"
-  collectedAt: 2026-09-07T06:01:28Z
+  collectedAt: 2026-09-07T18:26:08Z
 timeline:
   created: 2023-08-14
   lastCommit: 2026-09-06
@@ -86,7 +86,7 @@ total:
   commit: 278
 ---
 path: /home/runner/.x-repo/github.com/orhun/binsider
-collectedAt: 2026-09-07T06:01:34Z
+collectedAt: 2026-09-07T18:26:14Z
 loc:
   Json:
     code: 8978
@@ -152,7 +152,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:01:35+00:00
+  collectedAt: 2026-09-07T18:26:26+00:00
   platform:
     darwin/arm64:
       name:  binsider-0.3.2-aarch64-apple-darwin.tar.gz

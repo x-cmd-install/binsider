@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.2"
   latestRelease: "v0.3.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:17:49Z
+  collectedAt: 2026-09-10T23:36:51Z
 timeline:
   created: 2023-08-14
   lastCommit: 2026-09-06
@@ -90,7 +90,7 @@ total:
   commit: 278
 ---
 path: /home/runner/.x-repo/github.com/orhun/binsider
-collectedAt: 2026-09-10T20:17:51Z
+collectedAt: 2026-09-10T23:36:53Z
 loc:
   Json:
     code: 8978

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 951130,
       "digest": "sha256:acb806543b1a1c0b09a4da782f6ba8c8042591f694b2124cf602424720c33392",
-      "download_count": 287,
+      "download_count": 291,
       "created_at": "2026-02-01T10:38:15Z",
       "updated_at": "2026-02-01T10:38:15Z",
       "browser_download_url": "https://github.com/orhun/binsider/releases/download/v0.3.2/binsider--x86_64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1239137,
       "digest": "sha256:cb58c3c2b18dfacf9cc03e7a11cc31c9de0e9da86815f937e4e5c6fe4216a99a",
-      "download_count": 300,
+      "download_count": 303,
       "created_at": "2026-02-01T10:38:19Z",
       "updated_at": "2026-02-01T10:38:19Z",
       "browser_download_url": "https://github.com/orhun/binsider/releases/download/v0.3.2/binsider-0.3.2-aarch64-unknown-linux-gnu.tar.gz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 1352748,
       "digest": "sha256:50c0a365a15faab4acb4dacf94902021823f631f34cfbccb161c64ba4b8a31ea",
-      "download_count": 650,
+      "download_count": 655,
       "created_at": "2026-02-01T10:38:16Z",
       "updated_at": "2026-02-01T10:38:16Z",
       "browser_download_url": "https://github.com/orhun/binsider/releases/download/v0.3.2/binsider-0.3.2-x86_64-unknown-linux-gnu.tar.gz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 177,
       "digest": "sha256:8f3ac66fb37d4c73830b7339363aa39e3f2ae3e3d2adcc1b0810ab6dbd1a86d0",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-02-01T10:38:15Z",
       "updated_at": "2026-02-01T10:38:15Z",
       "browser_download_url": "https://github.com/orhun/binsider/releases/download/v0.3.2/binsider-0.3.2-x86_64-unknown-linux-gnu.tar.gz.sha512"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 1427946,
       "digest": "sha256:fd349c580824f2b52ff7cd6a302aaa774a3fe4beedd9378515bdfecec0d877a3",
-      "download_count": 339,
+      "download_count": 342,
       "created_at": "2026-02-01T10:38:18Z",
       "updated_at": "2026-02-01T10:38:19Z",
       "browser_download_url": "https://github.com/orhun/binsider/releases/download/v0.3.2/binsider-0.3.2-x86_64-unknown-linux-musl.tar.gz"

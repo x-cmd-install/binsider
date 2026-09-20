@@ -4,7 +4,7 @@
 
 Analyze ELF binaries like a boss 😼🕵️‍♂️
 
-![binsider](https://repo.x-cmd.io/binsider.svg)
+[![x-cmd/install — binsider Code Quality Monitoring Repo Card](https://repo.x-cmd.io/binsider.svg)](https://x-cmd.com/install/binsider)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install binsider
 
 ## Code insight
 
-Total: **12,864** lines of code across **38** files in the top 5 languages.
+Total: **12,932** lines of code across **38** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 8,978 | 0 | 0 | 3 |
-| Rust | 3,391 | 21 | 190 | 24 |
+| Rust | 3,459 | 21 | 198 | 24 |
 | Toml | 187 | 28 | 17 | 6 |
 | JavaScript | 136 | 2 | 5 | 3 |
 | Css | 87 | 0 | 16 | 2 |
@@ -33,27 +33,27 @@ Total: **12,864** lines of code across **38** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.2` (2026-02-01)
-- **Last commit**: 2026-09-06
+- **Last commit**: 2026-09-18
 - **Assets in release**: 41
 
 ## Popularity
 
-- **Stars**: 4,432 · **Forks**: 113 · **Open issues**: 59 · **Contributors**: 20
+- **Stars**: 4,433 · **Forks**: 113 · **Open issues**: 59 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 48 · **Open PRs**: 12 · **Closed issues**: 33 · **Open issues**: 26 · **Commits**: 278
+- **Releases**: 7 · **Merged PRs**: 49 · **Open PRs**: 11 · **Closed issues**: 33 · **Open issues**: 26 · **Commits**: 279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 3 | 1 | 0 | 1 |
-| last60d | 2026-07-20 | 0 | 1 | 3 | 1 | 0 | 1 |
-| 90d | 2026-06-20 | 0 | 2 | 3 | 2 | 0 | 2 |
-| last180d | 2026-03-22 | 0 | 3 | 4 | 2 | 4 | 5 |
-| 360d | 2025-09-23 | 3 | 5 | 4 | 5 | 4 | 11 |
-| last720d | 2024-09-28 | 5 | 30 | 12 | 17 | 13 | 55 |
+| 30d | 2026-08-21 | 0 | 2 | 2 | 1 | 0 | 2 |
+| last60d | 2026-07-22 | 0 | 2 | 2 | 1 | 0 | 2 |
+| 90d | 2026-06-22 | 0 | 3 | 2 | 2 | 0 | 3 |
+| last180d | 2026-03-24 | 0 | 4 | 3 | 2 | 4 | 6 |
+| 360d | 2025-09-25 | 3 | 6 | 3 | 5 | 4 | 12 |
+| last720d | 2024-09-30 | 5 | 30 | 11 | 14 | 13 | 55 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for binsider lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:20:26Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:18:18Z._

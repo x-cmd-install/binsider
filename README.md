@@ -38,22 +38,22 @@ Total: **12,932** lines of code across **38** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,477 · **Forks**: 113 · **Open issues**: 59 · **Contributors**: 20
+- **Stars**: 4,479 · **Forks**: 113 · **Open issues**: 58 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 49 · **Open PRs**: 12 · **Closed issues**: 33 · **Open issues**: 26 · **Commits**: 279
+- **Releases**: 7 · **Merged PRs**: 49 · **Open PRs**: 12 · **Closed issues**: 33 · **Open issues**: 25 · **Commits**: 279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 0 | 2 | 3 | 1 | 0 | 0 |
-| 90d | 2026-07-15 | 0 | 2 | 3 | 1 | 0 | 0 |
-| last180d | 2026-04-16 | 0 | 4 | 4 | 2 | 4 | 0 |
-| 360d | 2025-10-18 | 3 | 6 | 4 | 5 | 4 | 0 |
-| last720d | 2024-10-23 | 3 | 15 | 10 | 10 | 8 | 29 |
+| 30d | 2026-09-14 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last60d | 2026-08-15 | 0 | 2 | 3 | 1 | 0 | 2 |
+| 90d | 2026-07-16 | 0 | 2 | 3 | 1 | 0 | 2 |
+| last180d | 2026-04-17 | 0 | 4 | 4 | 2 | 4 | 6 |
+| 360d | 2025-10-19 | 3 | 6 | 4 | 5 | 4 | 12 |
+| last720d | 2024-10-24 | 3 | 14 | 10 | 9 | 8 | 29 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for binsider lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:05:27Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:03:02Z._

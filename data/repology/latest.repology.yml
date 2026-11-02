@@ -1,3 +1,12 @@
+- repo: scoop
+  subrepo: main
+  binname: binsider
+  visiblename: binsider
+  version: 0.3.2
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0|MIT
 - repo: alt_p11
   srcname: binsider
   binnames:
@@ -109,30 +118,6 @@
   origversion: null
   status: rolling
   summary: Analyzes ELF binaries
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: binsider
-  binname: binsider
-  visiblename: binsider
-  version: 0.3.2
-  origversion: 0.3.2-2
-  status: newest
-  summary: A TUI for analyzing binaries like a boss
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: binsider
-  binname: binsider
-  visiblename: binsider
-  version: 0.3.2
-  origversion: 0.3.2-2
-  status: newest
-  summary: A TUI for analyzing binaries like a boss
-  licenses:
-    - MIT
-    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: binsider
@@ -281,15 +266,6 @@
   licenses:
     - MIT
     - Apache-2.0
-- repo: scoop
-  subrepo: main
-  binname: binsider
-  visiblename: binsider
-  version: 0.3.2
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0|MIT
 - repo: terra_41
   srcname: binsider
   binname: binsider

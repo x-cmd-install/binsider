@@ -38,7 +38,7 @@ Total: **12,932** lines of code across **38** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,528 · **Forks**: 113 · **Open issues**: 59 · **Contributors**: 20
+- **Stars**: 4,532 · **Forks**: 113 · **Open issues**: 59 · **Contributors**: 20
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **12,932** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 2 | 3 | 1 | 0 | 2 |
-| last180d | 2026-05-21 | 0 | 4 | 3 | 2 | 1 | 4 |
-| 360d | 2025-11-22 | 3 | 6 | 4 | 4 | 4 | 12 |
-| last720d | 2024-11-27 | 3 | 11 | 8 | 8 | 7 | 24 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 2 | 3 | 1 | 0 | 2 |
+| last180d | 2026-05-23 | 0 | 4 | 3 | 2 | 1 | 4 |
+| 360d | 2025-11-24 | 3 | 6 | 4 | 4 | 4 | 12 |
+| last720d | 2024-11-29 | 3 | 11 | 8 | 8 | 7 | 24 |
 
 ## Release assets
 
@@ -101,6 +101,17 @@ Total: **12,932** lines of code across **38** files in the top 5 languages.
 | [binsider-0.3.2-x86_64-unknown-linux-musl.tar.gz.sig](https://github.com/orhun/binsider/releases/download/v0.3.2/binsider-0.3.2-x86_64-unknown-linux-musl.tar.gz.sig) | 566 B | `native/linux/x64/musl` |
 | [orhun-binsider.spdx.json](https://github.com/orhun/binsider/releases/download/v0.3.2/orhun-binsider.spdx.json) | 2.7 MiB | `other` |
 
+## Distribution status
+
+Reported by **36** distros on [repology.org](https://repology.org/project/binsider). **19** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.3.2` | ✅ latest |
+| Homebrew | `0.3.2` | ✅ latest |
+| Nix unstable | `0.3.2` | ✅ latest |
+| openSUSE Tumbleweed | `0.3.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for binsider lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `binsider` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -110,4 +121,4 @@ Install metadata for binsider lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T11:04:18Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:20:17Z._
